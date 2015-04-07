@@ -1,5 +1,4 @@
-# floodcontrol
-SocialStrap - Flood Control addon
+# SocialStrap - Flood Control addon
 
 http://www.socialstrap.net
 
