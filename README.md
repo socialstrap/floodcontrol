@@ -1,6 +1,5 @@
 # SocialStrap - Flood Control addon
 
-http://www.socialstrap.net
 
 Prevent users from flooding your site with useless content. 
 
